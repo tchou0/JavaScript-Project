@@ -1,0 +1,44 @@
+/* h1 {
+  color: red;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 50px;
+  size: 200px;
+}
+.invisible {
+  visibility: hidden;
+}  */
+
+/* style.css */
+.button {
+  background-color: yellow;
+  visibility: hidden;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: lightgray;
+}
+
+.list a {
+  text-decoration: none;
+  color: black;
+}
+.huge {
+  font-size: 10rem;
+  color: red;
+  font-weight: bold;
+}
